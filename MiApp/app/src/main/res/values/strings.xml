@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiApp</string>
+    <string name="mi_app">Mi App</string>
+    <string name="comenzar">comenzar</string>
+    <string name="tutorial">tutorial</string>
+    <string name="salir">salir</string>
+    <string name="todo">TODO</string>
+</resources>
